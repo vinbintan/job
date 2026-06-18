@@ -10,7 +10,7 @@
     "first_seen": "2026-06-18",
     "last_seen": "2026-06-18",
     "status": "active",
-    "ever_sent": false
+    "ever_sent": true
   },
   {
     "company": "Wowmaking",
@@ -23,6 +23,6 @@
     "first_seen": "2026-06-18",
     "last_seen": "2026-06-18",
     "status": "active",
-    "ever_sent": false
+    "ever_sent": true
   }
 ]
