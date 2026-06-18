@@ -5,10 +5,10 @@
     "location": "Cyprus or Remote",
     "url": "https://www.mu.se/positions/position-63_c6d",
     "language": "English — по факту нужен (вакансия на английском, вывод)",
-    "lang_block": "foreign",
+    "lang_block": "main",
     "description": "Visual design (email campaigns, app store materials, brand assets) + web production (landing pages via Webflow/Framer/Tilda) for music platforms: Ultimate Guitar, Audacity, MuseScore. Middle, 3+ years.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-06-17",
+    "last_seen": "2026-06-18",
     "status": "active"
   },
   {
@@ -20,7 +20,7 @@
     "lang_block": "foreign",
     "description": "UX/UI for AI-powered web testing tool: onboarding, validation flows, error handling. Expects experience with AI coding tools (Cursor/Claude Code) and startup background. Hybrid ~3x/week in office.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-06-17",
+    "last_seen": "2026-06-18",
     "status": "active"
   },
   {
@@ -32,7 +32,7 @@
     "lang_block": "foreign",
     "description": "End-to-end design for .NET developer tools (Rider IDE, ReSharper, profilers). Strong Figma skills, comfort navigating technical domains, basic coding literacy preferred. Multiple offices or remote (Germany).",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-06-17",
+    "last_seen": "2026-06-18",
     "status": "active"
   },
   {
@@ -44,7 +44,7 @@
     "lang_block": "main",
     "description": "UX-сценарии для корзины, чекаута и управления заказами в e-commerce B2C. Data-driven подход, JTBD, CJM, Double Diamond. Figma, сильный UI. Middle, от 3 лет опыта.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-06-17",
+    "last_seen": "2026-06-18",
     "status": "active"
   },
   {
@@ -56,7 +56,7 @@
     "lang_block": "foreign",
     "description": "Брендовая и маркетинговая графика (баннеры, SMM, веб-страницы) в рамках корпоративного стиля международной wealthtech-компании. Все стадии visual design от концепта до финального хэндоффа.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-06-17",
+    "last_seen": "2026-06-18",
     "status": "active"
   },
   {
@@ -68,7 +68,7 @@
     "lang_block": "main",
     "description": "Создание графики для магазинов приложений (скриншоты, иконки, feature graphics) для мобильных игр, акцент на ASO. Фриланс. Adobe Photoshop/Illustrator + AI-инструменты. От 1 года опыта.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-06-17",
+    "last_seen": "2026-06-18",
     "status": "active"
   },
   {
@@ -80,7 +80,7 @@
     "lang_block": "foreign",
     "description": "3D-визуализация продуктов и motion design для устройств Flipper. Full-time в лондонском офисе компании.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-06-17",
+    "last_seen": "2026-06-18",
     "status": "active"
   },
   {
@@ -92,7 +92,7 @@
     "lang_block": "foreign",
     "description": "Дизайн game UI для игры Taonga на основе UX-вайрфреймов. Создание UI-элементов и графики для имплементации. Adobe Photoshop, Illustrator. От 1 года опыта в game UI.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-06-17",
+    "last_seen": "2026-06-18",
     "status": "active"
   },
   {
@@ -105,7 +105,7 @@
     "description": "Motion Designer & Video Editor: 2D/3D анимация, VFX, Generative AI workflows. Корпоративные промо, data-driven анимации, UI/UX motion graphics для web, mobile, social.",
     "first_seen": "2026-06-17",
     "last_seen": "2026-06-17",
-    "status": "active"
+    "status": "closed"
   },
   {
     "company": "Nebius",
@@ -116,7 +116,31 @@
     "lang_block": "main",
     "description": "Проектная работа: UX e-learning курсов (SCORM) для L&D-команды. Структура, интерактивные элементы, визуальная система. Remote across Europe, дедлайн подачи — октябрь 2026.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-06-17",
+    "last_seen": "2026-06-18",
+    "status": "active"
+  },
+  {
+    "company": "Innowise",
+    "position": "Marketing Designer (Middle/Senior)",
+    "location": "Remote / All Locations",
+    "url": "https://jobs-innowise.com/en/vacancies/marketing-designer-middle-senior-all-locations/",
+    "language": "English B1+ — указано в вакансии",
+    "lang_block": "foreign",
+    "description": "Маркетинговые материалы (баннеры, презентации, соцсети, веб-контент) для IT-аутсорсинговой компании. Adobe Suite + Figma. Middle/Senior уровень, English B1+ обязателен.",
+    "first_seen": "2026-06-18",
+    "last_seen": "2026-06-18",
+    "status": "active"
+  },
+  {
+    "company": "Airslate",
+    "position": "Product Designer",
+    "location": "Remote / US, Poland, Romania, Ukraine",
+    "url": "https://jobs.lever.co/airslate/50aff8cb-cc8f-4800-b414-c95e68e4bb54",
+    "language": "English — по факту нужен (вакансия на английском, вывод)",
+    "lang_block": "main",
+    "description": "Product design для платформы автоматизации документооборота airSlate. UX/UI для Web и мобайл, работа в Figma. Гибкий формат (офис/гибрид/удалённо), локации: US, Польша, Румыния, Украина.",
+    "first_seen": "2026-06-18",
+    "last_seen": "2026-06-18",
     "status": "active"
   }
 ]
