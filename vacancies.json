@@ -8,7 +8,7 @@
     "lang_block": "main",
     "description": "Visual design (email campaigns, app store materials, brand assets) + web production (landing pages via Webflow/Framer/Tilda) for music platforms: Ultimate Guitar, Audacity, MuseScore. Middle, 3+ years.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-06-18",
+    "last_seen": "2026-06-27",
     "status": "active"
   },
   {
@@ -18,10 +18,10 @@
     "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4780260101",
     "language": "English — по факту нужен, в требованиях не указан (вывод)",
     "lang_block": "main",
-    "description": "UX/UI для AI-инструмента веб-тестирования: онбординг, валидация, обработка ошибок. Ожидается опыт с AI-инструментами (Cursor/Claude Code). Гибрид ~3x/нед в Лимасоле.",
+    "description": "UX/UI для AI-инструмента веб-тестирования: онбординг, валидация, обработка ошибок. Гибрид ~3x/нед в Лимасоле.",
     "first_seen": "2026-06-17",
     "last_seen": "2026-06-18",
-    "status": "active"
+    "status": "closed"
   },
   {
     "company": "JetBrains",
@@ -30,9 +30,9 @@
     "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4833718101",
     "language": "English — по факту нужен, в требованиях не указан (вывод)",
     "lang_block": "main",
-    "description": "End-to-end design для .NET developer tools (Rider IDE, ReSharper, профайлеры). Figma, техническое понимание домена. Несколько офисов или remote (Германия).",
+    "description": "End-to-end design для .NET developer tools (Rider IDE, ReSharper, профайлеры). Figma, техническое понимание домена.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-06-18",
+    "last_seen": "2026-06-27",
     "status": "active"
   },
   {
@@ -44,7 +44,7 @@
     "lang_block": "main",
     "description": "UX-сценарии для корзины, чекаута и управления заказами в e-commerce B2C. Data-driven подход, JTBD, CJM, Double Diamond. Figma, сильный UI. Middle, от 3 лет опыта.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-06-18",
+    "last_seen": "2026-06-27",
     "status": "active"
   },
   {
@@ -56,7 +56,7 @@
     "lang_block": "main",
     "description": "Брендовая и маркетинговая графика (баннеры, SMM, веб-страницы) в рамках корпоративного стиля международной wealthtech-компании. Все стадии visual design от концепта до хэндоффа.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-06-18",
+    "last_seen": "2026-06-27",
     "status": "active"
   },
   {
@@ -68,7 +68,7 @@
     "lang_block": "main",
     "description": "Создание ASO-графики для магазинов приложений (скриншоты, иконки, feature graphics) для мобильных игр. Фриланс, Photoshop/Illustrator + AI-инструменты. От 1 года опыта.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-06-18",
+    "last_seen": "2026-06-27",
     "status": "active"
   },
   {
@@ -80,7 +80,7 @@
     "lang_block": "foreign",
     "description": "3D-визуализация продуктов и motion design для устройств Flipper. Full-time в лондонском офисе компании.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-06-18",
+    "last_seen": "2026-06-27",
     "status": "active"
   },
   {
@@ -92,7 +92,7 @@
     "lang_block": "main",
     "description": "Дизайн game UI для игры Taonga на основе UX-вайрфреймов. Создание UI-элементов и графики для имплементации. Adobe Photoshop, Illustrator. От 1 года опыта в game UI.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-06-18",
+    "last_seen": "2026-06-27",
     "status": "active"
   },
   {
@@ -116,7 +116,7 @@
     "lang_block": "main",
     "description": "Проектная работа: UX e-learning курсов (SCORM) для L&D-команды. Структура, интерактивные элементы, визуальная система. Remote across Europe, дедлайн подачи — октябрь 2026.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-06-18",
+    "last_seen": "2026-06-27",
     "status": "active"
   },
   {
@@ -128,7 +128,7 @@
     "lang_block": "foreign",
     "description": "Маркетинговые материалы (баннеры, презентации, соцсети, веб-контент) для IT-аутсорсинговой компании. Adobe Suite + Figma. Middle/Senior уровень, English B1+ обязателен.",
     "first_seen": "2026-06-18",
-    "last_seen": "2026-06-18",
+    "last_seen": "2026-06-27",
     "status": "active"
   },
   {
@@ -140,7 +140,103 @@
     "lang_block": "main",
     "description": "Product design для платформы автоматизации документооборота airSlate. UX/UI для Web и мобайл, работа в Figma. Гибкий формат (офис/гибрид/удалённо): США, Польша, Румыния, Украина.",
     "first_seen": "2026-06-18",
-    "last_seen": "2026-06-18",
+    "last_seen": "2026-06-27",
+    "status": "active"
+  },
+  {
+    "company": "Playrix",
+    "position": "Middle UI Artist",
+    "location": "Remote (worldwide, кроме РФ и Беларусь)",
+    "url": "https://playrix.com/job/open/art/middle-ui-artist",
+    "language": "Русский / Украинский",
+    "lang_block": "main",
+    "description": "Game UI-арт для Gardenscapes, Homescapes и других игр Playrix. Дизайн UI-элементов, UX/UI прототипы, подготовка графики для имплементации. Middle, 1+ год опыта в game UI. Remote worldwide (кроме РФ/BY).",
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-06-27",
+    "status": "active"
+  },
+  {
+    "company": "Flo Health",
+    "position": "UI Designer — Gamification (Contractor)",
+    "location": "Poland (Remote B2B, 12 мес.)",
+    "url": "https://job-boards.greenhouse.io/flohealth/jobs/7761086003",
+    "language": "English — по факту нужен, в требованиях не указан (вывод)",
+    "lang_block": "main",
+    "description": "UI геймификации для Flo Health: награды, прогресс, персонажи, виджеты (iOS/Android). Иллюстрации, сторибординг для motion. Figma. 12 мес. B2B-контракт, Польша. $65k–$105k.",
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-06-27",
+    "status": "active"
+  },
+  {
+    "company": "Revolut",
+    "position": "Graphic Designer (Brand)",
+    "location": "Remote (несколько стран, без РФ/BY)",
+    "url": "https://www.revolut.com/careers/position/5b5689c2-5dae-4891-935a-052108c47362/",
+    "language": "English — по факту нужен, в требованиях не указан (вывод)",
+    "lang_block": "main",
+    "description": "Создание графики и motion для Brand-команды Revolut. Портфолио brand systems. Adobe Creative Cloud, Figma. Remote.",
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-06-27",
+    "status": "active"
+  },
+  {
+    "company": "Revolut",
+    "position": "Graphic Designer (Employer Branding)",
+    "location": "Remote (UK, Польша, Нидерланды, ОАЭ и др.)",
+    "url": "https://www.revolut.com/careers/position/graphic-designer-employer-branding-229f9181-612d-4494-9d55-1b0b6bfbfa1d/",
+    "language": "English — по факту нужен, в требованиях не указан (вывод)",
+    "lang_block": "main",
+    "description": "Визуальные материалы (статика + motion) для HR-каналов Revolut. Adobe Creative Cloud, Figma, 3D-активы. 2+ лет опыта. Remote.",
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-06-27",
+    "status": "active"
+  },
+  {
+    "company": "HomeBuddy",
+    "position": "UI/UX Designer",
+    "location": "Remote",
+    "url": "https://apply.workable.com/homebuddy/j/DDA56A8B6F",
+    "language": "English — по факту нужен, в требованиях не указан (вывод)",
+    "lang_block": "main",
+    "description": "UX/UI для платформы HomeBuddy (онлайн-маркетплейс ремонтных услуг, США). Remote.",
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-06-27",
+    "status": "active"
+  },
+  {
+    "company": "HomeBuddy",
+    "position": "Product Designer",
+    "location": "Remote",
+    "url": "https://apply.workable.com/homebuddy/j/9437554041",
+    "language": "English — по факту нужен, в требованиях не указан (вывод)",
+    "lang_block": "main",
+    "description": "Product design для платформы HomeBuddy (онлайн-маркетплейс ремонтных услуг, США). Remote.",
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-06-27",
+    "status": "active"
+  },
+  {
+    "company": "Recraft",
+    "position": "AI Designer",
+    "location": "Remote (London HQ)",
+    "url": "https://jobs.ashbyhq.com/recraft/64655615-7a15-4e41-bd92-d2c91201b7a8",
+    "language": "English — по факту нужен, в требованиях не указан (вывод)",
+    "lang_block": "main",
+    "description": "Применение gen AI к реальным дизайн-задачам: иллюстрации, маркетинговая графика, brand assets, концепт-идеация. Оценка качества генеративных моделей. 3+ лет практики как дизайнер. Remote (London).",
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-06-27",
+    "status": "active"
+  },
+  {
+    "company": "Mayflower",
+    "position": "Design System Designer",
+    "location": "Remote (или релокация в Limassol, Cyprus с EU-контрактом)",
+    "url": "https://mayflower.work/o/design-system-designer",
+    "language": "English — по факту нужен, в требованиях не указан (вывод)",
+    "lang_block": "main",
+    "description": "Дизайн-система для live entertainment платформ (AR/VR, ML). Figma, Storybook, Tokens Studio, Style Dictionary, CSS/SCSS/JS. Middle/Senior, 3+ лет в дизайн-системах. Remote или Кипр с EU-контрактом.",
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-06-27",
     "status": "active"
   }
 ]
