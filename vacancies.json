@@ -8,7 +8,7 @@
     "lang_block": "main",
     "description": "Visual design (email campaigns, app store materials, brand assets) + web production (landing pages via Webflow/Framer/Tilda) для музыкальных платформ: Ultimate Guitar, Audacity, MuseScore. Middle, 3+ лет.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-06-30",
+    "last_seen": "2026-07-02",
     "status": "active"
   },
   {
@@ -32,7 +32,7 @@
     "lang_block": "main",
     "description": "End-to-end design для .NET developer tools (Rider IDE, ReSharper, профайлеры). Figma, техническое понимание домена.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-06-30",
+    "last_seen": "2026-07-02",
     "status": "active"
   },
   {
@@ -56,7 +56,7 @@
     "lang_block": "main",
     "description": "Брендовая и маркетинговая графика (баннеры, SMM, веб-страницы) в рамках корпоративного стиля международной wealthtech-компании. Все стадии visual design от концепта до хэндоффа.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-06-30",
+    "last_seen": "2026-07-02",
     "status": "active"
   },
   {
@@ -68,7 +68,7 @@
     "lang_block": "main",
     "description": "Создание ASO-графики для магазинов приложений (скриншоты, иконки, feature graphics) для мобильных игр. Фриланс, Photoshop/Illustrator + AI-инструменты. От 1 года опыта.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-06-30",
+    "last_seen": "2026-07-02",
     "status": "active"
   },
   {
@@ -80,7 +80,7 @@
     "lang_block": "foreign",
     "description": "3D-визуализация продуктов и motion design для устройств Flipper. Full-time в лондонском офисе компании.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-06-30",
+    "last_seen": "2026-07-02",
     "status": "active"
   },
   {
@@ -93,7 +93,7 @@
     "description": "Дизайн game UI для игры Taonga на основе UX-вайрфреймов. Создание UI-элементов и графики для имплементации. Adobe Photoshop, Illustrator. От 1 года опыта в game UI.",
     "first_seen": "2026-06-17",
     "last_seen": "2026-06-30",
-    "status": "active"
+    "status": "closed"
   },
   {
     "company": "EXANTE",
@@ -116,7 +116,7 @@
     "lang_block": "main",
     "description": "Проектная работа: UX e-learning курсов (SCORM) для L&D-команды. Структура, интерактивные элементы, визуальная система. Remote across Europe, дедлайн подачи — октябрь 2026.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-06-30",
+    "last_seen": "2026-07-02",
     "status": "active"
   },
   {
@@ -128,7 +128,7 @@
     "lang_block": "foreign",
     "description": "Маркетинговые материалы (баннеры, презентации, соцсети, веб-контент) для IT-аутсорсинговой компании. Adobe Suite + Figma. Middle/Senior уровень, English B1+ обязателен.",
     "first_seen": "2026-06-18",
-    "last_seen": "2026-06-30",
+    "last_seen": "2026-07-02",
     "status": "active"
   },
   {
@@ -141,7 +141,7 @@
     "description": "Product design для платформы автоматизации документооборота airSlate. UX/UI для Web и мобайл, работа в Figma. Гибкий формат (офис/гибрид/удалённо): США, Польша, Румыния, Украина.",
     "first_seen": "2026-06-18",
     "last_seen": "2026-06-30",
-    "status": "active"
+    "status": "closed"
   },
   {
     "company": "Playrix",
@@ -152,7 +152,7 @@
     "lang_block": "main",
     "description": "Game UI-арт для Gardenscapes, Homescapes и других игр Playrix. Дизайн UI-элементов, UX/UI прототипы, подготовка графики для имплементации. Middle, 1+ год опыта в game UI. Remote worldwide (кроме РФ/BY).",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-30",
+    "last_seen": "2026-07-02",
     "status": "active"
   },
   {
@@ -165,7 +165,7 @@
     "description": "UI геймификации для Flo Health: награды, прогресс, персонажи, виджеты (iOS/Android). Иллюстрации, сторибординг для motion. Figma. 12 мес. B2B-контракт, Польша. $65k–$105k.",
     "first_seen": "2026-06-27",
     "last_seen": "2026-06-30",
-    "status": "active"
+    "status": "closed"
   },
   {
     "company": "Revolut",
@@ -174,10 +174,10 @@
     "url": "https://www.revolut.com/careers/position/5b5689c2-5dae-4891-935a-052108c47362/",
     "language": "English — по факту нужен, в требованиях не указан (вывод)",
     "lang_block": "main",
-    "description": "Создание графики и motion для Brand-команды Revolut. Портфолио brand systems. Adobe Creative Cloud, Figma. Remote.",
+    "description": "Создание графики и motion для Brand-команды Revolut. Портфолио brand systems. Adobe Creative Cloud, Figma. Remote. Позиция обновлена до Senior/Lead уровня.",
     "first_seen": "2026-06-27",
     "last_seen": "2026-06-30",
-    "status": "active"
+    "status": "closed"
   },
   {
     "company": "Revolut",
@@ -188,7 +188,7 @@
     "lang_block": "main",
     "description": "Визуальные материалы (статика + motion) для HR-каналов Revolut. Adobe Creative Cloud, Figma, 3D-активы. 2+ лет опыта. Remote.",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-30",
+    "last_seen": "2026-07-02",
     "status": "active"
   },
   {
@@ -200,7 +200,7 @@
     "lang_block": "main",
     "description": "UX/UI для платформы HomeBuddy (онлайн-маркетплейс ремонтных услуг, США). Remote.",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-30",
+    "last_seen": "2026-07-02",
     "status": "active"
   },
   {
@@ -225,7 +225,7 @@
     "description": "Применение gen AI к реальным дизайн-задачам: иллюстрации, маркетинговая графика, brand assets, концепт-идеация. Оценка качества генеративных моделей. 3+ лет практики как дизайнер. Remote (London).",
     "first_seen": "2026-06-27",
     "last_seen": "2026-06-30",
-    "status": "active"
+    "status": "closed"
   },
   {
     "company": "Mayflower",
@@ -248,7 +248,7 @@
     "lang_block": "main",
     "description": "Графический дизайн для маркетинговой команды Adapty (SaaS, платежи для мобильных приложений). Визуальный контент для блога, соцсетей, email-кампаний. 2+ лет опыта, Figma, Adobe CC. Remote.",
     "first_seen": "2026-06-30",
-    "last_seen": "2026-06-30",
+    "last_seen": "2026-07-02",
     "status": "active"
   },
   {
@@ -260,7 +260,7 @@
     "lang_block": "main",
     "description": "Дизайн маркетинговых кампаний для Adapty (SaaS). Создание визуалов для рекламных кампаний (paid, social, email). 3+ лет опыта. Remote.",
     "first_seen": "2026-06-30",
-    "last_seen": "2026-06-30",
+    "last_seen": "2026-07-02",
     "status": "active"
   },
   {
@@ -272,7 +272,43 @@
     "lang_block": "foreign",
     "description": "Product design для POS-системы ресторанного сегмента (Hospitality). UX/UI для point-of-sale платформы Lightspeed. Берлинский офис. II уровень (Middle).",
     "first_seen": "2026-06-30",
-    "last_seen": "2026-06-30",
+    "last_seen": "2026-07-02",
+    "status": "active"
+  },
+  {
+    "company": "Volka Games",
+    "position": "Graphic Designer (Promo art)",
+    "location": "Limassol, Cyprus (офис)",
+    "url": "https://jobs.ashbyhq.com/volka/9517e867-b524-4533-8a26-222edc0459fe",
+    "language": "не указан",
+    "lang_block": "main",
+    "description": "Промо-графика для игры Taonga: композиции, анимация в After Effects, работа со стоками. Adobe Photoshop, рисование, типографика. Офис в Лимасоле, полный день.",
+    "first_seen": "2026-07-02",
+    "last_seen": "2026-07-02",
+    "status": "active"
+  },
+  {
+    "company": "DBeaver",
+    "position": "UX Designer (Desktop)",
+    "location": "Europe (Remote) / Belgrade, Serbia / Budapest, Hungary (hybrid)",
+    "url": "https://job-boards.greenhouse.io/dbeaver/jobs/4953772008",
+    "language": "English — по факту нужен, в требованиях не указан (вывод)",
+    "lang_block": "main",
+    "description": "UX для десктопного продукта DBeaver (IDE для баз данных): аудит продукта, прототипирование, работа с разработчиками над улучшением опыта. Remote по Европе или гибрид Белград/Будапешт.",
+    "first_seen": "2026-07-02",
+    "last_seen": "2026-07-02",
+    "status": "active"
+  },
+  {
+    "company": "Luxoft",
+    "position": "Intern UX Designer",
+    "location": "Remote, Ukraine",
+    "url": "https://career.luxoft.com/jobs/intern-ux-designer-25305",
+    "language": "English B2 (Upper Intermediate) — указано в вакансии",
+    "lang_block": "foreign",
+    "description": "Стажировка UX-дизайнера в Luxoft. Начальный уровень, удалённо из Украины.",
+    "first_seen": "2026-07-02",
+    "last_seen": "2026-07-02",
     "status": "active"
   }
 ]
