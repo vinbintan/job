@@ -8,7 +8,7 @@
     "lang_block": "main",
     "description": "Visual design (email campaigns, app store материалы, brand assets) + web production (landing pages via Webflow/Framer/Tilda) для музыкальных платформ: Ultimate Guitar, Audacity, MuseScore. Middle, 3+ лет.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-07-11",
+    "last_seen": "2026-07-14",
     "status": "active"
   },
   {
@@ -32,7 +32,7 @@
     "lang_block": "main",
     "description": "End-to-end design для .NET developer tools (Rider IDE, ReSharper, профайлеры). Figma, техническое понимание домена.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-07-11",
+    "last_seen": "2026-07-14",
     "status": "active"
   },
   {
@@ -68,7 +68,7 @@
     "lang_block": "main",
     "description": "Создание ASO-графики для магазинов приложений (скриншоты, иконки, feature graphics) для мобильных игр. Фриланс, Photoshop/Illustrator + AI-инструменты. От 1 года опыта.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-07-11",
+    "last_seen": "2026-07-14",
     "status": "active"
   },
   {
@@ -80,7 +80,7 @@
     "lang_block": "foreign",
     "description": "3D-визуализация продуктов и motion design для устройств Flipper. Full-time в лондонском офисе компании.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-07-11",
+    "last_seen": "2026-07-14",
     "status": "active"
   },
   {
@@ -128,7 +128,7 @@
     "lang_block": "foreign",
     "description": "Маркетинговые материалы (баннеры, презентации, соцсети, веб-контент) для IT-аутсорсинговой компании. Adobe Suite + Figma. Middle/Senior уровень, English B1+ обязателен.",
     "first_seen": "2026-06-18",
-    "last_seen": "2026-07-11",
+    "last_seen": "2026-07-14",
     "status": "active"
   },
   {
@@ -248,7 +248,7 @@
     "lang_block": "main",
     "description": "Графический дизайн для маркетинговой команды Adapty (SaaS, платежи для мобильных приложений). Визуальный контент для блога, соцсетей, email-кампаний. 2+ лет опыта, Figma, Adobe CC. Remote.",
     "first_seen": "2026-06-30",
-    "last_seen": "2026-07-11",
+    "last_seen": "2026-07-14",
     "status": "active"
   },
   {
@@ -260,7 +260,7 @@
     "lang_block": "main",
     "description": "Дизайн маркетинговых кампаний для Adapty (SaaS). Создание визуалов для рекламных кампаний (paid, social, email). 3+ лет опыта. Remote.",
     "first_seen": "2026-06-30",
-    "last_seen": "2026-07-11",
+    "last_seen": "2026-07-14",
     "status": "active"
   },
   {
@@ -296,7 +296,7 @@
     "lang_block": "foreign",
     "description": "Стажировка UX-дизайнера в Luxoft. Начальный уровень, удалённо из Украины.",
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-11",
+    "last_seen": "2026-07-14",
     "status": "active"
   },
   {
@@ -332,7 +332,7 @@
     "lang_block": "foreign",
     "description": "Маркетинговая графика для Simple Life App (health & wellness, Palta Group). Middle-level, полностью удалённо из нескольких разрешённых стран.",
     "first_seen": "2026-07-07",
-    "last_seen": "2026-07-11",
+    "last_seen": "2026-07-14",
     "status": "active"
   },
   {
@@ -344,7 +344,7 @@
     "lang_block": "foreign",
     "description": "Визуальный контент для соцсетей и digital-каналов Nebius (AI cloud): графика для блога, рекламные креативы, motion/видео для соцсетей. Figma, Photoshop, Illustrator, After Effects, CapCut, AI-инструменты. Remote, США.",
     "first_seen": "2026-07-07",
-    "last_seen": "2026-07-11",
+    "last_seen": "2026-07-14",
     "status": "active"
   },
   {
@@ -366,10 +366,10 @@
     "url": "https://mundfish.com/en/careers/technical-game-designer",
     "language": "не указан",
     "lang_block": "main",
-    "description": "Гейм-дизайн систем и механик для игрового проекта студии (Atomic Heart). Middle-уровень, полностью удалённо, глобальный ремоут без ограничений по РФ/BY на странице вакансии.",
+    "description": "Гейм-дизайн систем и механик — не соответствует профилю графического/веб-дизайнера, исключено из выдачи.",
     "first_seen": "2026-07-11",
-    "last_seen": "2026-07-11",
-    "status": "active"
+    "last_seen": "2026-07-14",
+    "status": "closed"
   },
   {
     "company": "Mundfish",
@@ -378,10 +378,10 @@
     "url": "https://mundfish.com/en/careers/technical-artist",
     "language": "не указан",
     "lang_block": "main",
-    "description": "Шейдеры, оптимизация и профилирование графики на Unreal Engine для игрового проекта студии. Middle, от 3 лет опыта. Полностью удалённо.",
+    "description": "Технический арт/шейдеры на Unreal Engine — не соответствует профилю графического/веб-дизайнера, исключено из выдачи.",
     "first_seen": "2026-07-11",
-    "last_seen": "2026-07-11",
-    "status": "active"
+    "last_seen": "2026-07-14",
+    "status": "closed"
   },
   {
     "company": "Mundfish",
@@ -390,9 +390,21 @@
     "url": "https://mundfish.com/en/careers/level-designer",
     "language": "не указан",
     "lang_block": "main",
-    "description": "Левел-дизайн для игрового проекта студии (Atomic Heart). Вакансия указывает грейды Middle и Senior. Полностью удалённо.",
+    "description": "Левел-дизайн — не соответствует профилю графического/веб-дизайнера, исключено из выдачи.",
     "first_seen": "2026-07-11",
-    "last_seen": "2026-07-11",
+    "last_seen": "2026-07-14",
+    "status": "closed"
+  },
+  {
+    "company": "Replika",
+    "position": "Motion Designer, Growth",
+    "location": "Multiple locations (Fully Remote)",
+    "url": "https://careers.replika.com/jobs/8030971-motion-designer-growth",
+    "language": "English C1 — предпочтительно (nice to have, указано в вакансии)",
+    "lang_block": "main",
+    "description": "Motion-дизайн для Growth-команды Replika (AI-компаньон, 35M+ пользователей): UX motion-система, анимация UI, After Effects, Rive, Lottie, Figma.",
+    "first_seen": "2026-07-14",
+    "last_seen": "2026-07-14",
     "status": "active"
   }
 ]
