@@ -8,7 +8,7 @@
     "lang_block": "main",
     "description": "Visual design (email campaigns, app store материалы, brand assets) + web production (landing pages via Webflow/Framer/Tilda) для музыкальных платформ: Ultimate Guitar, Audacity, MuseScore. Middle, 3+ лет.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-07-14",
+    "last_seen": "2026-07-16",
     "status": "active"
   },
   {
@@ -32,7 +32,7 @@
     "lang_block": "main",
     "description": "End-to-end design для .NET developer tools (Rider IDE, ReSharper, профайлеры). Figma, техническое понимание домена.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-07-14",
+    "last_seen": "2026-07-16",
     "status": "active"
   },
   {
@@ -68,7 +68,7 @@
     "lang_block": "main",
     "description": "Создание ASO-графики для магазинов приложений (скриншоты, иконки, feature graphics) для мобильных игр. Фриланс, Photoshop/Illustrator + AI-инструменты. От 1 года опыта.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-07-14",
+    "last_seen": "2026-07-16",
     "status": "active"
   },
   {
@@ -80,7 +80,7 @@
     "lang_block": "foreign",
     "description": "3D-визуализация продуктов и motion design для устройств Flipper. Full-time в лондонском офисе компании.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-07-14",
+    "last_seen": "2026-07-16",
     "status": "active"
   },
   {
@@ -128,7 +128,7 @@
     "lang_block": "foreign",
     "description": "Маркетинговые материалы (баннеры, презентации, соцсети, веб-контент) для IT-аутсорсинговой компании. Adobe Suite + Figma. Middle/Senior уровень, English B1+ обязателен.",
     "first_seen": "2026-06-18",
-    "last_seen": "2026-07-14",
+    "last_seen": "2026-07-16",
     "status": "active"
   },
   {
@@ -248,7 +248,7 @@
     "lang_block": "main",
     "description": "Графический дизайн для маркетинговой команды Adapty (SaaS, платежи для мобильных приложений). Визуальный контент для блога, соцсетей, email-кампаний. 2+ лет опыта, Figma, Adobe CC. Remote.",
     "first_seen": "2026-06-30",
-    "last_seen": "2026-07-14",
+    "last_seen": "2026-07-16",
     "status": "active"
   },
   {
@@ -260,8 +260,8 @@
     "lang_block": "main",
     "description": "Дизайн маркетинговых кампаний для Adapty (SaaS). Создание визуалов для рекламных кампаний (paid, social, email). 3+ лет опыта. Remote.",
     "first_seen": "2026-06-30",
-    "last_seen": "2026-07-14",
-    "status": "active"
+    "last_seen": "2026-07-16",
+    "status": "closed"
   },
   {
     "company": "Lightspeed",
@@ -296,7 +296,7 @@
     "lang_block": "foreign",
     "description": "Стажировка UX-дизайнера в Luxoft. Начальный уровень, удалённо из Украины.",
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-14",
+    "last_seen": "2026-07-16",
     "status": "active"
   },
   {
@@ -332,8 +332,8 @@
     "lang_block": "foreign",
     "description": "Маркетинговая графика для Simple Life App (health & wellness, Palta Group). Middle-level, полностью удалённо из нескольких разрешённых стран.",
     "first_seen": "2026-07-07",
-    "last_seen": "2026-07-14",
-    "status": "active"
+    "last_seen": "2026-07-16",
+    "status": "closed"
   },
   {
     "company": "Nebius",
@@ -344,7 +344,7 @@
     "lang_block": "foreign",
     "description": "Визуальный контент для соцсетей и digital-каналов Nebius (AI cloud): графика для блога, рекламные креативы, motion/видео для соцсетей. Figma, Photoshop, Illustrator, After Effects, CapCut, AI-инструменты. Remote, США.",
     "first_seen": "2026-07-07",
-    "last_seen": "2026-07-14",
+    "last_seen": "2026-07-16",
     "status": "active"
   },
   {
@@ -404,7 +404,43 @@
     "lang_block": "main",
     "description": "Motion-дизайн для Growth-команды Replika (AI-компаньон, 35M+ пользователей): UX motion-система, анимация UI, After Effects, Rive, Lottie, Figma.",
     "first_seen": "2026-07-14",
-    "last_seen": "2026-07-14",
+    "last_seen": "2026-07-16",
+    "status": "active"
+  },
+  {
+    "company": "DDL (Data-Driven Lab)",
+    "position": "Communication Designer",
+    "location": "Serbia (офис с релокацией) или Remote",
+    "url": "https://ddl.com/communication_designer_en",
+    "language": "не указан",
+    "lang_block": "main",
+    "description": "Визуальный стиль коммуникаций компании: лендинги, баннеры, email-рассылки, визуальный контент для соцсетей. Figma, Adobe. От 3 лет опыта в коммуникационном дизайне. Релокация в Сербию либо удалённо.",
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-07-16",
+    "status": "active"
+  },
+  {
+    "company": "Social Discovery Group",
+    "position": "AI Graphic Designer (Freelance)",
+    "location": "Remote (в пределах Bangkok / Belgrade / Tbilisi / Yerevan)",
+    "url": "https://social-discovery-ventures.breezy.hr/p/72fae92487e901-ai-graphic-designer-freelance",
+    "language": "English B2+ (и русский) — указано в вакансии",
+    "lang_block": "foreign",
+    "description": "Performance-креативы и цифровые ассеты с использованием AI-генерации (MidJourney, Imagen, Comfy и др.) для маркетинга SDG. Фриланс-контракт.",
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-07-16",
+    "status": "active"
+  },
+  {
+    "company": "Social Discovery Group",
+    "position": "AI Motion Designer (Freelance)",
+    "location": "Remote (в пределах Bangkok / Belgrade / Tbilisi / Yerevan)",
+    "url": "https://social-discovery-ventures.breezy.hr/p/fa9227dfcaa901-ai-motion-designer-freelance",
+    "language": "English B2+ (и русский) — указано в вакансии",
+    "lang_block": "foreign",
+    "description": "Motion-дизайн с AI-инструментами: After Effects, экспертный уровень, портфолио motion-работ. Фриланс-контракт.",
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-07-16",
     "status": "active"
   }
 ]
