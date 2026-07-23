@@ -32,7 +32,7 @@
     "lang_block": "main",
     "description": "End-to-end design для .NET developer tools (Rider IDE, ReSharper, профайлеры). Figma, техническое понимание домена.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-07-21",
+    "last_seen": "2026-07-23",
     "status": "active"
   },
   {
@@ -80,7 +80,7 @@
     "lang_block": "foreign",
     "description": "3D-визуализация продуктов и motion design для устройств Flipper. Full-time в лондонском офисе компании.",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-07-21",
+    "last_seen": "2026-07-23",
     "status": "active"
   },
   {
@@ -128,7 +128,7 @@
     "lang_block": "foreign",
     "description": "Маркетинговые материалы (баннеры, презентации, соцсети, веб-контент) для IT-аутсорсинговой компании. Adobe Suite + Figma. Middle/Senior уровень, English B1+ обязателен.",
     "first_seen": "2026-06-18",
-    "last_seen": "2026-07-21",
+    "last_seen": "2026-07-23",
     "status": "active"
   },
   {
@@ -296,7 +296,7 @@
     "lang_block": "foreign",
     "description": "Стажировка UX-дизайнера в Luxoft. Начальный уровень, удалённо из Украины.",
     "first_seen": "2026-07-02",
-    "last_seen": "2026-07-21",
+    "last_seen": "2026-07-23",
     "status": "active"
   },
   {
@@ -344,7 +344,7 @@
     "lang_block": "foreign",
     "description": "Визуальный контент для соцсетей и digital-каналов Nebius (AI cloud): графика для блога, рекламные креативы, motion/видео для соцсетей. Figma, Photoshop, Illustrator, After Effects, CapCut, AI-инструменты. Remote, США.",
     "first_seen": "2026-07-07",
-    "last_seen": "2026-07-21",
+    "last_seen": "2026-07-23",
     "status": "active"
   },
   {
@@ -404,7 +404,7 @@
     "lang_block": "main",
     "description": "Motion-дизайн для Growth-команды Replika (AI-компаньон, 35M+ пользователей): UX motion-система, анимация UI, After Effects, Rive, Lottie, Figma.",
     "first_seen": "2026-07-14",
-    "last_seen": "2026-07-21",
+    "last_seen": "2026-07-23",
     "status": "active"
   },
   {
@@ -416,7 +416,7 @@
     "lang_block": "main",
     "description": "Визуальный стиль коммуникаций компании: лендинги, баннеры, email-рассылки, визуальный контент для соцсетей. Figma, Adobe. От 3 лет опыта в коммуникационном дизайне. Релокация в Сербию либо удалённо.",
     "first_seen": "2026-07-16",
-    "last_seen": "2026-07-21",
+    "last_seen": "2026-07-23",
     "status": "active"
   },
   {
@@ -428,7 +428,7 @@
     "lang_block": "foreign",
     "description": "Performance-креативы и цифровые ассеты с использованием AI-генерации (MidJourney, Imagen, Comfy и др.) для маркетинга SDG. Фриланс-контракт.",
     "first_seen": "2026-07-16",
-    "last_seen": "2026-07-21",
+    "last_seen": "2026-07-23",
     "status": "active"
   },
   {
@@ -440,7 +440,7 @@
     "lang_block": "foreign",
     "description": "Motion-дизайн с AI-инструментами: After Effects, экспертный уровень, портфолио motion-работ. Фриланс-контракт.",
     "first_seen": "2026-07-16",
-    "last_seen": "2026-07-21",
+    "last_seen": "2026-07-23",
     "status": "active"
   },
   {
@@ -452,7 +452,7 @@
     "lang_block": "main",
     "description": "Growth-дизайн для SMP Monetization (Sheet Music Plus): оптимизация конверсии и пользовательских путей на web/mobile, A/B-тестирование, продуктовая аналитика. Figma. Middle, 3+ лет опыта с subscription/freemium моделями.",
     "first_seen": "2026-07-18",
-    "last_seen": "2026-07-21",
+    "last_seen": "2026-07-23",
     "status": "active"
   },
   {
@@ -464,7 +464,7 @@
     "lang_block": "main",
     "description": "Видео-концепты, сценарии, промо-ролики и маркетинговый контент для мобильных игр G5 Games. Управление игровыми ассетами, анимация, звук в сотрудничестве с командой. Фриланс, remote.",
     "first_seen": "2026-07-18",
-    "last_seen": "2026-07-21",
+    "last_seen": "2026-07-23",
     "status": "active"
   },
   {
@@ -476,7 +476,7 @@
     "lang_block": "main",
     "description": "Маркетинговые и брендовые креативы для цифровой экосистемы QIC. Figma, Adobe продукты, AI-инструменты (Krea, NanoBanana, Recraft). Middle, 3+ лет опыта. Remote, 6-месячный контракт, оплата в USD/EUR.",
     "first_seen": "2026-07-18",
-    "last_seen": "2026-07-21",
+    "last_seen": "2026-07-23",
     "status": "active"
   },
   {
@@ -489,6 +489,6 @@
     "description": "Создание маркетинговых креативных ассетов и кампаний: соцсети, брошюры, презентации по брендбуку Veeam. Junior-уровень (Associate). Cross-functional команда.",
     "first_seen": "2026-07-21",
     "last_seen": "2026-07-21",
-    "status": "active"
+    "status": "closed"
   }
 ]
