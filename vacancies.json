@@ -152,7 +152,7 @@
     "lang_block": "main",
     "description": "Game UI-арт для Gardenscapes, Homescapes и других игр Playrix. Дизайн UI-элементов, UX/UI прототипы, подготовка графики для имплементации. Middle, 1+ год опыта в game UI. Remote worldwide (кроме РФ/BY).",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-07-09",
+    "last_seen": "2026-08-18",
     "status": "closed"
   },
   {
@@ -174,9 +174,9 @@
     "url": "https://www.revolut.com/careers/position/5b5689c2-5dae-4891-935a-052108c47362/",
     "language": "English — по факту нужен, в требованиях не указан (вывод)",
     "lang_block": "main",
-    "description": "Создание графики и motion для Brand-команды Revolut. Портфолио brand systems. Adobe Creative Cloud, Figma. Remote. Позиция обновлена до Senior/Lead уровня.",
+    "description": "Создание графики и motion для Brand-команды Revolut. Портфолио brand systems. Adobe Creative Cloud, Figma. Remote. Позиция обновлена до Senior/Mid-Senior уровня.",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-30",
+    "last_seen": "2026-07-30",
     "status": "closed"
   },
   {
@@ -218,14 +218,14 @@
   {
     "company": "Recraft",
     "position": "AI Designer",
-    "location": "Remote (London HQ)",
+    "location": "Remote (secondary hubs: Armenia, Georgia, Kazakhstan, Serbia; London HQ)",
     "url": "https://jobs.ashbyhq.com/recraft/64655615-7a15-4e41-bd92-d2c91201b7a8",
     "language": "English — по факту нужен, в требованиях не указан (вывод)",
     "lang_block": "main",
-    "description": "Применение gen AI к реальным дизайн-задачам: иллюстрации, маркетинговая графика, brand assets, концепт-идеация. Оценка качества генеративных моделей. 3+ лет практики как дизайнер. Remote (London).",
+    "description": "Применение gen AI к реальным дизайн-задачам: иллюстрации, маркетинговая графика, brand assets, концепт-идеация. Оценка качества генеративных моделей. 3+ лет практики как дизайнер. Remote.",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-06-30",
-    "status": "closed"
+    "last_seen": "2026-08-18",
+    "status": "active"
   },
   {
     "company": "Mayflower",
@@ -404,7 +404,7 @@
     "lang_block": "main",
     "description": "Motion-дизайн для Growth-команды Replika (AI-компаньон, 35M+ пользователей): UX motion-система, анимация UI, After Effects, Rive, Lottie, Figma.",
     "first_seen": "2026-07-14",
-    "last_seen": "2026-08-15",
+    "last_seen": "2026-08-18",
     "status": "active"
   },
   {
@@ -416,7 +416,7 @@
     "lang_block": "main",
     "description": "Визуальный стиль коммуникаций компании: лендинги, баннеры, email-рассылки, визуальный контент для соцсетей. Figma, Adobe. От 3 лет опыта в коммуникационном дизайне. Релокация в Сербию либо удалённо.",
     "first_seen": "2026-07-16",
-    "last_seen": "2026-08-15",
+    "last_seen": "2026-08-18",
     "status": "active"
   },
   {
@@ -464,7 +464,7 @@
     "lang_block": "main",
     "description": "Видео-концепты, сценарии, промо-ролики и маркетинговый контент для мобильных игр G5 Games. Управление игровыми ассетами, анимация, звук в сотрудничестве с командой. Фриланс, remote.",
     "first_seen": "2026-07-18",
-    "last_seen": "2026-08-15",
+    "last_seen": "2026-08-18",
     "status": "active"
   },
   {
@@ -500,7 +500,7 @@
     "lang_block": "main",
     "description": "Маркетинговый дизайн для инвестиционной платформы InvestEngine (ETF): brand и campaign работа с сильным фокусом на motion (After Effects, Premiere Pro) + статика (Figma, Illustrator, Photoshop). Mid-weight, 3–5 лет опыта. Гибрид, Лондон.",
     "first_seen": "2026-08-04",
-    "last_seen": "2026-08-15",
+    "last_seen": "2026-08-18",
     "status": "active"
   },
   {
@@ -512,7 +512,20 @@
     "lang_block": "main",
     "description": "Адаптация маркетинговых видео-креативов для локальных рынков в команде Growth: After Effects, Premiere Pro, AI-инструменты (Runway, HeyGen) для дубляжа/липсинка. От 1 года опыта в motion design. Контрактная позиция, полностью удалённо.",
     "first_seen": "2026-08-11",
-    "last_seen": "2026-08-15",
+    "last_seen": "2026-08-18",
+    "status": "active"
+  },
+  {
+    "company": "SOFTSWISS",
+    "position": "UX/UI Designer – Middle (Marketing)",
+    "location": "Georgia, Poland, Serbia (Remote)",
+    "url": "https://careers.softswiss.com/vacancies/ui-ux-designer-middle/",
+    "language": "не указан",
+    "lang_block": "main",
+    "description": "Дизайн интерфейсов для маркетинговой команды SOFTSWISS (iGaming платформы). Работа над UI/UX кампаний и продуктовых страниц. Middle, 2+ лет опыта. Georgia/Poland/Serbia, remote.",
+    "posted_date": "2026-07-22",
+    "first_seen": "2026-08-18",
+    "last_seen": "2026-08-18",
     "status": "active"
   }
 ]
