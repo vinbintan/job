@@ -86,14 +86,15 @@
   {
     "company": "Volka Games",
     "position": "Game UI Designer",
-    "location": "Limassol, Cyprus (офис)",
+    "location": "Limassol, Cyprus (офис, релокация)",
     "url": "https://jobs.ashbyhq.com/volka/70a3329e-219e-4531-9562-737e185715b5",
     "language": "English — по факту нужен, в требованиях не указан (вывод)",
     "lang_block": "main",
-    "description": "Дизайн game UI для игры Taonga на основе UX-вайрфреймов. Создание UI-элементов и графики для имплементации. Adobe Photoshop, Illustrator. От 1 года опыта в game UI.",
+    "description": "Дизайн игровых интерфейсов для Taonga: the Island Farm на основе UX-вайрфреймов. Создание UI-элементов и подготовка графики для имплементации. Adobe Photoshop, Illustrator. От 1 года опыта в game UI. Онсайт с релокацией в Лимасол.",
+    "posted_date": "2026-08-12",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-06-30",
-    "status": "closed"
+    "last_seen": "2026-09-17",
+    "status": "active"
   },
   {
     "company": "EXANTE",
@@ -225,7 +226,7 @@
     "description": "Применение gen AI к реальным дизайн-задачам: иллюстрации, маркетинговая графика, brand assets, концепт-идеация. Оценка качества генеративных моделей. 3+ лет практики как дизайнер. Remote.",
     "posted_date": "2026-08-28",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-10",
+    "last_seen": "2026-09-17",
     "status": "active"
   },
   {
@@ -238,7 +239,7 @@
     "description": "Performance-креатив (статика, motion, UGC-style) для Meta/Google/TikTok в Growth-команде Recraft: гипотеза → тест → итерация на основе данных (hook rate, CTR). Figma/Photoshop + After Effects/Premiere/CapCut. 3+ лет опыта в performance creative.",
     "posted_date": "2026-08-26",
     "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
+    "last_seen": "2026-09-17",
     "status": "active"
   },
   {
@@ -430,7 +431,7 @@
     "lang_block": "main",
     "description": "Визуальный стиль коммуникаций компании: лендинги, баннеры, email-рассылки, визуальный контент для соцсетей. Figma, Adobe. От 3 лет опыта в коммуникационном дизайне. Релокация в Сербию либо удалённо.",
     "first_seen": "2026-07-16",
-    "last_seen": "2026-09-10",
+    "last_seen": "2026-09-17",
     "status": "active"
   },
   {
@@ -514,7 +515,7 @@
     "lang_block": "main",
     "description": "Маркетинговый дизайн для инвестиционной платформы InvestEngine (ETF): brand и campaign работа с сильным фокусом на motion (After Effects, Premiere Pro) + статика (Figma, Illustrator, Photoshop). Mid-weight, 3–5 лет опыта. Гибрид, Лондон.",
     "first_seen": "2026-08-04",
-    "last_seen": "2026-09-10",
+    "last_seen": "2026-09-17",
     "status": "active"
   },
   {
@@ -526,7 +527,7 @@
     "lang_block": "main",
     "description": "Адаптация маркетинговых видео-креативов для локальных рынков в команде Growth: After Effects, Premiere Pro, AI-инструменты (Runway, HeyGen) для дубляжа/липсинка. От 1 года опыта в motion design. Контрактная позиция, полностью удалённо.",
     "first_seen": "2026-08-11",
-    "last_seen": "2026-09-10",
+    "last_seen": "2026-09-17",
     "status": "active"
   },
   {
@@ -541,5 +542,31 @@
     "first_seen": "2026-08-18",
     "last_seen": "2026-09-03",
     "status": "closed"
+  },
+  {
+    "company": "Volka Games",
+    "position": "Marketing 2D AI Artist",
+    "location": "Limassol, Cyprus (офис, релокация)",
+    "url": "https://jobs.ashbyhq.com/volka/9eeada9f-b583-4afe-82df-cb416f0ac510",
+    "language": "English A2 — указано в вакансии",
+    "lang_block": "foreign",
+    "description": "Маркетинговые статичные визуалы для Taonga: the Island Farm — комбинация AI-генерации (ChatGPT, Stable Diffusion, ComfyUI) с ручной доработкой в Photoshop. От 2 лет опыта в 2D. Онсайт с релокацией в Лимасол, Кипр.",
+    "posted_date": "2026-08-26",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "status": "active"
+  },
+  {
+    "company": "Volka Games",
+    "position": "2D Artist (Generalist)",
+    "location": "Limassol, Cyprus (офис, релокация)",
+    "url": "https://jobs.ashbyhq.com/volka/92e294b8-d35f-425d-855f-99e675c620ed",
+    "language": "не указан",
+    "lang_block": "main",
+    "description": "Изометрические игровые ассеты (здания, растительность, реквизит) для Taonga: the Island Farm в характерном авторском арт-стиле игры. Требуется портфолио. Онсайт с релокацией в Лимасол, Кипр.",
+    "posted_date": "2026-09-14",
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "status": "active"
   }
 ]
