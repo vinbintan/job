@@ -93,7 +93,7 @@
     "description": "Дизайн игровых интерфейсов для Taonga: the Island Farm на основе UX-вайрфреймов. Создание UI-элементов и подготовка графики для имплементации. Adobe Photoshop, Illustrator. От 1 года опыта в game UI. Онсайт с релокацией в Лимасол.",
     "posted_date": "2026-08-12",
     "first_seen": "2026-06-17",
-    "last_seen": "2026-09-17",
+    "last_seen": "2026-09-24",
     "status": "active"
   },
   {
@@ -226,7 +226,7 @@
     "description": "Применение gen AI к реальным дизайн-задачам: иллюстрации, маркетинговая графика, brand assets, концепт-идеация. Оценка качества генеративных моделей. 3+ лет практики как дизайнер. Remote.",
     "posted_date": "2026-08-28",
     "first_seen": "2026-06-27",
-    "last_seen": "2026-09-17",
+    "last_seen": "2026-09-24",
     "status": "active"
   },
   {
@@ -239,7 +239,7 @@
     "description": "Performance-креатив (статика, motion, UGC-style) для Meta/Google/TikTok в Growth-команде Recraft: гипотеза → тест → итерация на основе данных (hook rate, CTR). Figma/Photoshop + After Effects/Premiere/CapCut. 3+ лет опыта в performance creative.",
     "posted_date": "2026-08-26",
     "first_seen": "2026-09-10",
-    "last_seen": "2026-09-17",
+    "last_seen": "2026-09-24",
     "status": "active"
   },
   {
@@ -431,7 +431,7 @@
     "lang_block": "main",
     "description": "Визуальный стиль коммуникаций компании: лендинги, баннеры, email-рассылки, визуальный контент для соцсетей. Figma, Adobe. От 3 лет опыта в коммуникационном дизайне. Релокация в Сербию либо удалённо.",
     "first_seen": "2026-07-16",
-    "last_seen": "2026-09-17",
+    "last_seen": "2026-09-24",
     "status": "active"
   },
   {
@@ -515,7 +515,7 @@
     "lang_block": "main",
     "description": "Маркетинговый дизайн для инвестиционной платформы InvestEngine (ETF): brand и campaign работа с сильным фокусом на motion (After Effects, Premiere Pro) + статика (Figma, Illustrator, Photoshop). Mid-weight, 3–5 лет опыта. Гибрид, Лондон.",
     "first_seen": "2026-08-04",
-    "last_seen": "2026-09-17",
+    "last_seen": "2026-09-24",
     "status": "active"
   },
   {
@@ -527,7 +527,7 @@
     "lang_block": "main",
     "description": "Адаптация маркетинговых видео-креативов для локальных рынков в команде Growth: After Effects, Premiere Pro, AI-инструменты (Runway, HeyGen) для дубляжа/липсинка. От 1 года опыта в motion design. Контрактная позиция, полностью удалённо.",
     "first_seen": "2026-08-11",
-    "last_seen": "2026-09-17",
+    "last_seen": "2026-09-24",
     "status": "active"
   },
   {
@@ -553,7 +553,7 @@
     "description": "Маркетинговые статичные визуалы для Taonga: the Island Farm — комбинация AI-генерации (ChatGPT, Stable Diffusion, ComfyUI) с ручной доработкой в Photoshop. От 2 лет опыта в 2D. Онсайт с релокацией в Лимасол, Кипр.",
     "posted_date": "2026-08-26",
     "first_seen": "2026-09-17",
-    "last_seen": "2026-09-17",
+    "last_seen": "2026-09-24",
     "status": "active"
   },
   {
@@ -566,7 +566,59 @@
     "description": "Изометрические игровые ассеты (здания, растительность, реквизит) для Taonga: the Island Farm в характерном авторском арт-стиле игры. Требуется портфолио. Онсайт с релокацией в Лимасол, Кипр.",
     "posted_date": "2026-09-14",
     "first_seen": "2026-09-17",
-    "last_seen": "2026-09-17",
+    "last_seen": "2026-09-24",
+    "status": "active"
+  },
+  {
+    "company": "Flo Health",
+    "position": "Graphic Designer (Contractor)",
+    "location": "Ukraine (гибрид, 3 дня/нед в офисе; ICA-контракт)",
+    "url": "https://job-boards.greenhouse.io/flohealth/jobs/7980449003",
+    "language": "English — указано в вакансии (excellent English communication)",
+    "lang_block": "foreign",
+    "description": "Визуальный контент для health-платформы Flo: маркетинговая графика, анимации, иллюстрации и инфографика для объяснения сложной медицинской информации. Учёт данных и A/B-тестов. Middle, 3+ лет опыта. ICA-контракт, гибрид в Украине.",
+    "posted_date": "2026-09-04",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-24",
+    "status": "active"
+  },
+  {
+    "company": "Flo Health",
+    "position": "Graphic Designer (Contractor)",
+    "location": "Poland (гибрид, 3 дня/нед в офисе; ICA-контракт)",
+    "url": "https://job-boards.greenhouse.io/flohealth/jobs/7980217003",
+    "language": "English — указано в вакансии (excellent English communication)",
+    "lang_block": "foreign",
+    "description": "Визуальные ассеты для маркетинга, продукта и медицинского образования Flo Health: графика, анимации, перевод научного контента в иллюстрации. Middle, 3+ лет опыта. ICA-контракт, гибрид в Польше.",
+    "posted_date": "2026-09-04",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-24",
+    "status": "active"
+  },
+  {
+    "company": "Nebius",
+    "position": "Presentation & Customer-facing Assets Designer",
+    "location": "Remote — Европа",
+    "url": "https://careers.nebius.com/?gh_jid=4967692101",
+    "language": "English — по факту нужен, в требованиях не указан (вывод)",
+    "lang_block": "main",
+    "description": "Дизайн-система презентаций и клиентских материалов: шаблоны, sales-документы, инфографика и диаграммы для AI cloud платформы Nebius. Figma, PowerPoint, Keynote, Adobe Illustrator/Photoshop/InDesign. Грейд не указан. Remote по Европе.",
+    "posted_date": "2026-09-18",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-24",
+    "status": "active"
+  },
+  {
+    "company": "Intch (via Hirehire)",
+    "position": "UX/UI Designer (первый full-time дизайнер)",
+    "location": "Remote (открытая география, желателен overlap с CET)",
+    "url": "https://jobs.ashbyhq.com/hirehire/e825c7e3-09b5-423b-bc48-00485059ca15",
+    "language": "English B1 + русский свободно — указано в вакансии",
+    "lang_block": "foreign",
+    "description": "Первый full-time продуктовый дизайнер для Intch (проф. соц-сеть + маркетплейс part-time контрактов, <40 человек). Полный цикл от проблемы до продакшн-дизайна: онбординг, профили, discovery, paywalls. Figma. Широкая автономия, web — основная платформа.",
+    "posted_date": "2026-09-14",
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-24",
     "status": "active"
   }
 ]
