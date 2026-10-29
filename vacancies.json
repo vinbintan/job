@@ -227,7 +227,7 @@
     "posted_date": "2026-08-28",
     "first_seen": "2026-06-27",
     "last_seen": "2026-10-15",
-    "status": "active"
+    "status": "closed"
   },
   {
     "company": "Recraft",
@@ -240,7 +240,7 @@
     "posted_date": "2026-08-26",
     "first_seen": "2026-09-10",
     "last_seen": "2026-10-15",
-    "status": "active"
+    "status": "closed"
   },
   {
     "company": "Mayflower",
@@ -431,7 +431,7 @@
     "lang_block": "main",
     "description": "Визуальный стиль коммуникаций компании: лендинги, баннеры, email-рассылки, визуальный контент для соцсетей. Figma, Adobe. От 3 лет опыта в коммуникационном дизайне. Релокация в Сербию либо удалённо.",
     "first_seen": "2026-07-16",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-29",
     "status": "active"
   },
   {
@@ -515,7 +515,7 @@
     "lang_block": "main",
     "description": "Маркетинговый дизайн для инвестиционной платформы InvestEngine (ETF): brand и campaign работа с сильным фокусом на motion (After Effects, Premiere Pro) + статика (Figma, Illustrator, Photoshop). Mid-weight, 3–5 лет опыта. Гибрид, Лондон.",
     "first_seen": "2026-08-04",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-29",
     "status": "active"
   },
   {
@@ -528,7 +528,7 @@
     "description": "Адаптация маркетинговых видео-креативов для локальных рынков в команде Growth: After Effects, Premiere Pro, AI-инструменты (Runway, HeyGen) для дубляжа/липсинка. От 1 года опыта в motion design. Контрактная позиция, полностью удалённо.",
     "first_seen": "2026-08-11",
     "last_seen": "2026-10-15",
-    "status": "active"
+    "status": "closed"
   },
   {
     "company": "SOFTSWISS",
@@ -554,7 +554,7 @@
     "posted_date": "2026-08-26",
     "first_seen": "2026-09-17",
     "last_seen": "2026-10-15",
-    "status": "active"
+    "status": "closed"
   },
   {
     "company": "Volka Games",
@@ -567,7 +567,7 @@
     "posted_date": "2026-09-14",
     "first_seen": "2026-09-17",
     "last_seen": "2026-10-15",
-    "status": "active"
+    "status": "closed"
   },
   {
     "company": "Flo Health",
@@ -606,7 +606,7 @@
     "posted_date": "2026-09-18",
     "first_seen": "2026-09-24",
     "last_seen": "2026-10-15",
-    "status": "active"
+    "status": "closed"
   },
   {
     "company": "Intch (via Hirehire)",
@@ -644,7 +644,7 @@
     "description": "Создание фотореалистичных AI-изображений и видео, ручная ретушь и доработка, автоматизация batch-обработки, поддержка визуального стиля бренда. Грейд не указан. Полностью удалённо из нескольких разрешённых стран.",
     "posted_date": null,
     "first_seen": "2026-10-01",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-29",
     "status": "active"
   },
   {
@@ -670,7 +670,7 @@
     "description": "Продуктовый дизайн для live-entertainment платформы (направление Discovery). 5+ лет опыта в продуктовом дизайне веб-продуктов — грейд в названии не указан. Temporary remote с будущей релокацией в Лимасол.",
     "posted_date": null,
     "first_seen": "2026-10-01",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-29",
     "status": "active"
   },
   {
@@ -683,7 +683,7 @@
     "description": "Продуктовый дизайн для live-entertainment платформы (направление Monetization). 5+ лет опыта в продуктовом дизайне веб-продуктов — грейд в названии не указан. Temporary remote с будущей релокацией в Лимасол.",
     "posted_date": null,
     "first_seen": "2026-10-01",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-29",
     "status": "active"
   },
   {
@@ -697,7 +697,7 @@
     "posted_date": "2026-09-15",
     "first_seen": "2026-10-08",
     "last_seen": "2026-10-15",
-    "status": "active"
+    "status": "closed"
   },
   {
     "company": "Plata",
@@ -710,7 +710,7 @@
     "posted_date": "2026-09-18",
     "first_seen": "2026-10-15",
     "last_seen": "2026-10-15",
-    "status": "active"
+    "status": "closed"
   },
   {
     "company": "Mayflower",
@@ -722,7 +722,85 @@
     "description": "UI/UX дизайн для live-entertainment платформы (Mayflower, Кипр). Опытный дизайнер, полный цикл интерфейсной работы. Грейд в названии не указан. Temporary remote с будущей релокацией в Лимасол.",
     "posted_date": null,
     "first_seen": "2026-10-15",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-29",
+    "status": "active"
+  },
+  {
+    "company": "Nebius",
+    "position": "Communications Designer, Developer Experience",
+    "location": "Remote — United States",
+    "url": "https://careers.nebius.com/?gh_jid=5002215101",
+    "language": "English — явно не указан, команда международная (вывод)",
+    "lang_block": "main",
+    "description": "Визуальный язык для developer-facing материалов Nebius (AI cloud): dev.nebius.com, AI Builder Program, события, мерч, соцсети. Фигма, превращение технического контента (бенчмарки, архитектура) в понятную визуалку. Грейд не указан. Remote, США.",
+    "posted_date": null,
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "status": "active"
+  },
+  {
+    "company": "Nebius",
+    "position": "Communications Designer — People Communications",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://careers.nebius.com/?gh_jid=5004280101",
+    "language": "English — явно не указан, команда международная (вывод)",
+    "lang_block": "main",
+    "description": "Визуальные материалы для внутренних коммуникаций и employer branding Nebius: презентации, соцсети, корпоративные события (включая печать/пространственный дизайн), мерч. Figma, Adobe CC, PowerPoint/Keynote. 5+ лет опыта в коммуникационном дизайне. Амстердам.",
+    "posted_date": null,
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "status": "active"
+  },
+  {
+    "company": "Flo Health",
+    "position": "Freelance Motion Designer (PL/UA)",
+    "location": "Poland (Remote)",
+    "url": "https://job-boards.greenhouse.io/flohealth/jobs/8041543003",
+    "language": "English — явно не указан, вывод из контекста международной команды",
+    "lang_block": "main",
+    "description": "Motion-дизайн для маркетинга Flo Health: анимация, UGC-видео, локализация роликов под разные рынки. After Effects, Figma, генеративный AI. 3+ лет опыта. Фриланс, полностью удалённо (Польша), от 3400 EUR/мес.",
+    "posted_date": null,
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "status": "active"
+  },
+  {
+    "company": "Flo Health",
+    "position": "Graphic Designer",
+    "location": "Vilnius, Lithuania (гибрид, 3 дня/нед в офисе)",
+    "url": "https://job-boards.greenhouse.io/flohealth/jobs/8041526003",
+    "language": "English — указано в вакансии (excellent English communication)",
+    "lang_block": "foreign",
+    "description": "Визуальный дизайн для маркетинга, продукта и медицинского образования Flo Health: статика и анимация, перевод сложной медицинской информации в инфографику. Figma, Illustrator, Photoshop, базовый After Effects. 3+ лет опыта. Гибрид, Вильнюс, от 3400 EUR/мес.",
+    "posted_date": null,
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "status": "active"
+  },
+  {
+    "company": "Volka Games",
+    "position": "Marketing Creative Producer (Junior/Middle)",
+    "location": "Limassol, Cyprus (офис, релокация)",
+    "url": "https://jobs.ashbyhq.com/volka/2a511b88-5f83-4363-81cc-7ee4fd201788",
+    "language": "English B2 + русский (необходим) — указано в вакансии",
+    "lang_block": "foreign",
+    "description": "Креативное производство маркетинговых видео для Taonga: the Island Farm — брифы, координация с художниками и motion-дизайнерами, креативные гипотезы и итерации. Junior/Middle, 2+ лет опыта в creative production/UA. Онсайт с релокацией в Лимасол.",
+    "posted_date": "2026-08-13",
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "status": "active"
+  },
+  {
+    "company": "Easybrain",
+    "position": "Creative Manager",
+    "location": "Warsaw, Poland (гибрид)",
+    "url": "https://jobs.lever.co/easybrain/d19fbf3f-f8fa-42c4-aaf5-a2bc57486d7a",
+    "language": "English B2 + русский (необходим) — указано в вакансии",
+    "lang_block": "foreign",
+    "description": "Креативные концепции и брифы для рекламных материалов мобильных игр Easybrain (video/static/playable ads), контроль качества креативов. 2+ лет опыта в creative marketing для мобильных игр. Гибрид, Варшава.",
+    "posted_date": null,
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
     "status": "active"
   }
 ]
